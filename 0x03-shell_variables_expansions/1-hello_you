@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hello $@ade9245b60dd"
+echo "hello $USER"
