@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "hello $root@ade9245b60dd"
